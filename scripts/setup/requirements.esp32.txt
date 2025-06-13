@@ -15,3 +15,4 @@ itsdangerous<2.1 ; python_version < "3.11"
 esp_idf_monitor==1.1.1
 esp-idf-kconfig==1.2.0
 esp_idf_nvs_partition_gen==0.1.2
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
