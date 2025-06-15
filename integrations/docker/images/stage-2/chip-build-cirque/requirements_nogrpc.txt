@@ -6,3 +6,4 @@ pylint == 2.4
 pyroute2 >= 0.5.7
 six >= 1.12
 toml
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
