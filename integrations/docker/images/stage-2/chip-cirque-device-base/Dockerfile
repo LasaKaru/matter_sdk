@@ -1,4 +1,4 @@
-FROM ubuntu:24.04
+FROM ubuntu:24.10
 
 ARG OT_BR_POSIX_CHECKOUT=main
 
