@@ -1,4 +1,4 @@
-FROM ubuntu:24.04
+FROM ubuntu:24.10
 LABEL org.opencontainers.image.source https://github.com/project-chip/connectedhomeip
 
 VOLUME "/var/source"
