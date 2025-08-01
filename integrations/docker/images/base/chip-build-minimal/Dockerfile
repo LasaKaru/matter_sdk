@@ -1,5 +1,5 @@
 # This minimal build image is intentionally not based on chip-build
-FROM ubuntu:24.04
+FROM ubuntu:24.10
 LABEL org.opencontainers.image.source https://github.com/project-chip/connectedhomeip
 
 RUN set -x \
